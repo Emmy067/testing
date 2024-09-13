@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Links</title>
+</head>
+     <body>
+         <a href="https://www.google.com" style="color:green;"><button>visit Google</button></a>
+	 <br>
+	 <br>
+	 <br>
+	 <a href="about.html">About us</a>
+	 <br>
+	 <br>
+	 <button oneclick="document.location= about html>About us</button>
+</body>
+</html>
